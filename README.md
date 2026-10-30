@@ -10,13 +10,15 @@ Building production-grade Android applications with a focus on performance, scal
 <br/>
 
 <a href="https://www.linkedin.com/in/tushar-bokade/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;&nbsp;
 <a href="mailto:tusharbokade048@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;&nbsp;
 <a href="https://tushar-bokade.github.io/TusharBokade-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-246FBD?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-246FBD?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
